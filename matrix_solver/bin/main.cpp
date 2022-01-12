@@ -40,6 +40,7 @@ vector<double> solve(vector<vector<double>> arr){
 }
 
 int main(){
+        //freopen("input.txt","r",stdin)
 	int n;
 	cin >> n;
 	vector<vector<double>> arr; 
